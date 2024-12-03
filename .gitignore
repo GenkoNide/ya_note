@@ -25,3 +25,7 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
+task.txt
+notes/pytest_tests/conftest.py
+notes/pytest_tests/test_routes.py
+pytest.ini
